@@ -10,7 +10,7 @@ Una descripcion mas detallada del trabajo se encuentra [aca](https://mis-notas.n
 
 
 # Integrantes
-[Luis Paredes](https://github.com/LuisParedes1) 104851
 
+[Luis Paredes](https://github.com/LuisParedes1) lparedesr@fi.uba.ar 104851
 
-[Nicole ---](https://github.com/nravesz) ---
+[Nicole ---](https://github.com/nravesz) nraveszani@fi.uba.ar ---
