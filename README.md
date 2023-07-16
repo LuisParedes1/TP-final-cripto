@@ -1,7 +1,7 @@
 # Trabajo Practico Final Criptografia y Blockchain
 
 
-El siguiente trabajo practico usara como base el repositorios [lambdaworks](https://github.com/lambdaclass/lambdaworks) y [Starknet Stack Prover Lambdaworks](https://github.com/lambdaclass/starknet_stack_prover_lambdaworks)
+El siguiente trabajo practico usara como base los repositorios [lambdaworks](https://github.com/lambdaclass/lambdaworks) y [Starknet Stack Prover Lambdaworks](https://github.com/lambdaclass/starknet_stack_prover_lambdaworks)
 
 De ahi vamos a sacar la logica necesaria para el verifier.
 
