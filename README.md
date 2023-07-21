@@ -12,7 +12,11 @@ Una descripcion mas detallada del trabajo se encuentra [aca](https://mis-notas.n
 
 ## Parte 1
 
+Correr 
 
+`cargo run`
+
+Para correr el archivo [main.rs](./src/main.rs)
 
 ## Parte 2
 
