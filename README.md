@@ -6,7 +6,7 @@ El siguiente trabajo practico usara como base los repositorios [lambdaworks](htt
 De ahi vamos a sacar la logica necesaria para el verifier.
 
 
-Una descripcion mas detallada del trabajo se encuentra [aca](https://mis-notas.notion.site/Final-30a1521f0d21498f8ce5488b549103da?pvs=4)
+Una descripcion mas detallada del trabajo se encuentra en nuestro Notion [aca](https://mis-notas.notion.site/Final-30a1521f0d21498f8ce5488b549103da?pvs=4)
 
 # Ejecutar
 
